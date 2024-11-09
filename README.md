@@ -1,4 +1,4 @@
-``markdown
+
 # 2-Bit Digital-to-Analog Converter (DAC) with Glitch Reduction
 
 This project implements a 2-bit Digital-to-Analog Converter (DAC) circuit designed in **KiCad**, featuring a basic resistor ladder network and an operational amplifier (**UA741**) for glitch reduction and analog signal smoothing. The circuit converts 2-bit digital input to an analog output.
@@ -43,5 +43,4 @@ The circuit uses binary-weighted resistors to create DAC functionality, with eac
 
 
 
-# GlitchFree-DAC
 
