@@ -141,12 +141,13 @@ The SkyWater PDK, along with Ngspice, is installed automatically when eSim is in
 - [eSim Documentation](https://static.fossee.in/esim/installation-files/Install_eSim_on_Windows.pdf)
 - [SkyWater PDK GitHub](https://github.com/google/skywater-pdk)
 - [Magic VLSI Tool](http://opencircuitdesign.com/magic/)
-- [Ngspice Download](http://ngspice.sourceforge.net/download.html)
+- [Ngspice Download](http://ngspice.sourceforge.net/download.http
 
----
 
-**Note**: In Windows, eSim includes Ngspice and SkyWater PDK, so separate installations are not necessary.
-```
+
+
+
+
 
 ## Contact Information
 - **ERAGAMREDDY SUSHMA CHANDANA:** eesushmachandana@gmail.com
