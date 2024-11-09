@@ -146,15 +146,7 @@ The SkyWater PDK, along with Ngspice, is installed automatically when eSim is in
 
 **Note**: In Windows, eSim includes Ngspice and SkyWater PDK, so separate installations are not necessary.
 ```
-#Contributors
-ERAGAMREDDY SUSHMA CHANDANA 
-#Acknowledgments
-Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
-Sumanto kar, Assistant Project Manager, FOSSEE
-Contact Information
-ERAGAMREDDY SUSHMA ,student,rajiv gandhi university of knowledge technologies , eesushmachandana@gmail.com
-Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com
-Sumanto kar, Assistant Project Manager, FOSSEE
+
 
 
 
