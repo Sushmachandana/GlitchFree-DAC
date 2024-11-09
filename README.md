@@ -1,4 +1,4 @@
-no# 2-Bit Digital-to-Analog Converter (DAC) with Glitch Reduction
+# 2-Bit Digital-to-Analog Converter (DAC) with Glitch Reduction
 
 This project implements a 2-bit Digital-to-Analog Converter (DAC) circuit designed in **KiCad**, featuring a basic resistor ladder network and an operational amplifier (**UA741**) for glitch reduction and analog signal smoothing. The circuit converts 2-bit digital input to an analog output.
 
@@ -146,6 +146,23 @@ The SkyWater PDK, along with Ngspice, is installed automatically when eSim is in
 
 **Note**: In Windows, eSim includes Ngspice and SkyWater PDK, so separate installations are not necessary.
 ```
+# Contributors
+- ERAGAMREDDY SUSHMA CHANDANA
+
+# Acknowledgments
+- Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
+- Sumanto Kar, Assistant Project Manager, FOSSEE
+
+# Contact Information
+- **ERAGAMREDDY SUSHMA**, Student, Rajiv Gandhi University of Knowledge Technologies  
+  Email: [eesushmachandana@gmail.com](mailto:eesushmachandana@gmail.com)
+
+- **Kunal Ghosh**, Director, VSD Corp. Pvt. Ltd.  
+  Email: [kunalghosh@gmail.com](mailto:kunalghosh@gmail.com)
+
+- **Sumanto Kar**, Assistant Project Manager, FOSSEE
+
+
 
 
 
