@@ -9,10 +9,8 @@ This project implements a 2-bit Digital-to-Analog Converter (DAC) circuit design
 1. [Project Description](#project-description)
 2. [Components Used](#components-used)
 3. [Circuit Design](#circuit-design)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Constraints](#constraints)
-7. [License](#license)
+4. [Constraints](#constraints)
+
 
 ---
 
@@ -34,6 +32,14 @@ The circuit uses binary-weighted resistors to create DAC functionality, with eac
 - **Digital Inputs** (D0, D1, D2, D3): Binary inputs to control the DAC output
 - **Output (OUT)**: Analog output voltage
 - **Power (VDD/GND)**: Power supply for the operational amplifier
+
+## Constraints
+
+- **Power Supply**: The operational amplifier requires a stable power supply (usually +5V or +12V).
+- **Resistor Values**: Accurate resistor values (1K, 2K, etc.) are necessary for correct DAC operation.
+- **Input Voltage Levels**: Ensure input voltages match the logic levels of the system to avoid errors.
+- **Op-Amp Choice**: Using the UA741 for the op-amp may limit the performance; consider upgrading to a low-offset, high-speed op-amp for better glitch reduction.
+- **Filtering**: Additional capacitive filtering may be required for smoother output.
 
 
 
