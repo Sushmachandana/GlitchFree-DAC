@@ -9,27 +9,28 @@ This project implements a 2-bit Digital-to-Analog Converter (DAC) circuit design
 1. [Project Description](#project-description)
 2. [Components Used](#components-used)
 3. [Circuit Design](#circuit-design)
-4. [Constraints](#constraints]
-5.Open Source Tools Used
+4. [Constraints]
+(#constraints]
+5. [Open Source Tools Used]
 (#Open-Source-Tools-Used)
-6.[Installation in Ubuntu](
-#Installation-in-Ubuntu)
-7.[eSim Installation] 
+6. [Installation in Ubuntu]
+(#Installation-in-Ubuntu)
+7. [eSim Installation] 
 (#eSim-Installation)
-8.[Ngspice Installation] 
+8. [Ngspice Installation] 
 (#Ngspice-Installation)
-9.[SkyWater PDK Installation](#SkyWater-PDK-Installation)
-10.[Installation in Windows]
+9. [SkyWater PDK Installation](#SkyWater-PDK-Installation)
+10. [Installation in Windows]
 (#Installation-in-Windows)
-11.[eSim Installation]
+11. [eSim Installation]
 (#eSim-Installation)
-12.[Pre Layout Schematic and Simulations] 
+12. [Pre Layout Schematic and Simulations] 
 (#Pre Layout Schematic and Simulations)
-13.[Contributors]
+13. [Contributors]
 (#Contributors)
-14.[Acknowledgments]
+14. [Acknowledgments]
 (#Acknowledgments)
-15.[Contact Information] 
+15. [Contact Information] 
 (#Contact_Information)
 
 
