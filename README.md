@@ -54,7 +54,7 @@ The circuit uses binary-weighted resistors to create DAC functionality, with eac
 
 # 
  <p align="center">
-  <img width="800" height="500" src="/PRE_LAYOUT/circuit.jpeg>
+  <img width="400" height="300" src="/PRE_LAYOUT/circuit.jpeg>
  </p>
 # Open-Source Tools Used
 
