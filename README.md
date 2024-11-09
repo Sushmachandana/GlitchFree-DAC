@@ -25,13 +25,13 @@ This project implements a 2-bit Digital-to-Analog Converter (DAC) circuit design
 11. [eSim Installation]
 (#eSim-Installation)
 12. [Pre Layout Schematic and Simulations] 
-(#Pre Layout Schematic and Simulations)
+(#Pre-Layout-Schematic-and- Simulations)
 13. [Contributors]
 (#Contributors)
 14. [Acknowledgments]
 (#Acknowledgments)
 15. [Contact Information] 
-(#Contact_Information)
+(#Contact-Information)
 
 
 ---
