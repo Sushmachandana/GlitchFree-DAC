@@ -9,30 +9,19 @@ This project implements a 2-bit Digital-to-Analog Converter (DAC) circuit design
 1. [Project Description](#project-description)
 2. [Components Used](#components-used)
 3. [Circuit Design](#circuit-design)
-4. [Constraints]
-(#constraints]
-5. [Open Source Tools Used]
-(#Open-Source-Tools-Used)
-6. [Installation in Ubuntu]
-(#Installation-in-Ubuntu)
-7. [eSim Installation] 
-(#eSim-Installation)
-8. [Ngspice Installation] 
-(#Ngspice-Installation)
-9. [SkyWater PDK Installation](#SkyWater-PDK-Installation)
-10. [Installation in Windows]
-(#Installation-in-Windows)
-11. [eSim Installation]
-(#eSim-Installation)
-12. [Pre Layout Schematic and Simulations] 
-(#Pre-Layout-Schematic-and- Simulations)
-13. [Contributors]
-(#Contributors)
-14. [Acknowledgments]
-(#Acknowledgments)
-15. [Contact Information] 
-(#Contact-Information)
-
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Constraints](#constraints)
+13. [Open Source Tools Used](#open-source-tools-used)
+14. [Installation in Ubuntu](#installation-in-ubuntu)
+15. [eSim Installation](#esim-installation)
+16. [Ngspice Installation](#ngspice-installation)
+17. [SkyWater PDK Installation](#skywater-pdk-installation)
+18. [Installation in Windows](#installation-in-windows)
+19. [Pre Layout Schematic and Simulations](#pre-layout-schematic-and-simulations)
+20. [Contributors](#contributors)
+21. [Acknowledgments](#acknowledgments)
+22. [Contact Information](#contact-information)
 
 ---
 
@@ -187,6 +176,9 @@ The SkyWater PDK, along with Ngspice, is installed automatically when eSim is in
 - **Kunal Ghosh**: kunalghosh@gmail.com
 - **Sumanto Kar**: FOSSEE Contact
 ```
+
+
+
 
 
 
