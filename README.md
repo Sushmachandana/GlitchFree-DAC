@@ -40,6 +40,35 @@ The circuit uses binary-weighted resistors to create DAC functionality, with eac
 - **Op-Amp Choice**: Using the UA741 for the op-amp may limit the performance; consider upgrading to a low-offset, high-speed op-amp for better glitch reduction.
 - **Filtering**: Additional capacitive filtering may be required for smoother output.
 
+# Open-Source Tools Used
+
+## eSim
+eSim (previously known as Oscad / FreeEDA) is a free/libre and open source EDA tool for circuit design, simulation, analysis, and PCB design. It is an integrated tool built using free/libre and open-source software such as KiCad, Ngspice, and GHDL. eSim is released under the GPL license.  
+[More about eSim](https://esim.fossee.in/home)
+
+## Ngspice
+ngspice is the open-source SPICE simulator for electric and electronic circuits.  
+[More about Ngspice](http://ngspice.sourceforge.net/)
+
+## SkyWater Open Source PDK
+The SkyWater Open Source PDK is a collaboration between Google and SkyWater Technology Foundry to provide a fully open-source Process Design Kit and related resources, which can be used to create manufacturable designs at SkyWater’s facility.  
+[More about SkyWater PDK](https://github.com/google/skywater-pdk)
+
+## Magic
+Magic is a venerable VLSI layout tool, written in the 1980s at Berkeley by John Ousterhout, primarily known for writing the scripting language Tcl. The open-source license has allowed VLSI engineers to implement clever ideas and help Magic stay relevant in fabrication technology.  
+[More about Magic](http://opencircuitdesign.com/magic/)
+
+---
+
+## Installation on Ubuntu
+
+To ensure that you have the latest package information:
+
+```bash
+sudo apt-get update
+sudo apt install git
+sudo apt install make
+
 
 
 
