@@ -53,7 +53,9 @@ The circuit uses binary-weighted resistors to create DAC functionality, with eac
 - **Filtering**: Additional capacitive filtering may be required for smoother output.
 
 # 
-To format the instructi
+ <p align="center">
+  <img width="800" height="500" src="/PRE_LAYOUT/circuit.jpeg>
+ </p>
 # Open-Source Tools Used
 
 ## eSim
@@ -175,7 +177,7 @@ The SkyWater PDK, along with Ngspice, is installed automatically when eSim is in
 - **ERAGAMREDDY SUSHMA CHANDANA**: eesushmachandana@gmail.com
 - **Kunal Ghosh**: kunalghosh@gmail.com
 - **Sumanto Kar**: FOSSEE Contact
-```
+
 
 
 
