@@ -8,7 +8,7 @@ This project implements a 2-bit Digital-to-Analog Converter (DAC) circuit design
 1. [Project Description](#project-description)
 2. [Components Used](#components-used)
 3. [Circuit Design](#circuit-design)
-4. [Constraints](#constraints)
+4. [Constraints](#constraints
 
 
 ---
@@ -146,8 +146,15 @@ The SkyWater PDK, along with Ngspice, is installed automatically when eSim is in
 
 **Note**: In Windows, eSim includes Ngspice and SkyWater PDK, so separate installations are not necessary.
 ```
-
-This README file is now structured for ease of reference, using Markdown for clear headings, bullet points, and code blocks.
+#Contributors
+ERAGAMREDDY SUSHMA CHANDANA 
+#Acknowledgments
+Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
+Sumanto kar, Assistant Project Manager, FOSSEE
+Contact Information
+ERAGAMREDDY SUSHMA ,student,rajiv gandhi university of knowledge technologies , eesushmachandana@gmail.com
+Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com
+Sumanto kar, Assistant Project Manager, FOSSEE
 
 
 
